@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibChaosGame", "LibChaosGame\LibChaosGame.csproj", "{EB64A390-EEDF-44BA-85AA-4CD4288751DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaosGamePlay", "MaWindows\ChaosGamePlay.csproj", "{67575F5A-03C7-40C7-A1C9-828ADD9B033B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB64A390-EEDF-44BA-85AA-4CD4288751DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB64A390-EEDF-44BA-85AA-4CD4288751DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB64A390-EEDF-44BA-85AA-4CD4288751DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB64A390-EEDF-44BA-85AA-4CD4288751DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67575F5A-03C7-40C7-A1C9-828ADD9B033B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67575F5A-03C7-40C7-A1C9-828ADD9B033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67575F5A-03C7-40C7-A1C9-828ADD9B033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67575F5A-03C7-40C7-A1C9-828ADD9B033B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44565EA3-83CC-4C82-B9D3-94EE0C1E2BDA}
+	EndGlobalSection
+EndGlobal
